@@ -1,2 +1,2 @@
-# StadtLandFluss
-Simple Webapp for StadtLandFluss
+# Code examples
+Short and simple code examples, e.g. for different patterns
